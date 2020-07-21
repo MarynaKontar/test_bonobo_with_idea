@@ -7,5 +7,6 @@ public class Main {
         System.out.println("commit change master2");
         System.out.println("commit 2");
         System.out.println("commit with adding changes and rewrite commit");
+        System.out.println("NEW TESTING OF GIT COMMANDS");
     }
 }
